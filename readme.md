@@ -1,6 +1,6 @@
 This is a game made by Dave Angelo Jimenez and Von Rolo Divino as a final requirement for CMSC 22: Object Oriented Programming.
 
-Code architecture was designed for scalability and for future projects. This makes the addition of new GameObjects and GameScenes a much easier process 
+Code architecture was designed for scalability and for future projects. This allows the addition of new GameObjects and GameScenes to be a much easier process 
 
 Pixel Art Assets are created by Dave Angelo Jimenez using Aseprite.
 Background Musics are composed by Dave Angelo Jimenez using Beepbox.co and Audacity.
